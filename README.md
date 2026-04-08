@@ -1,1 +1,2 @@
-# Othello-java
+Objectif : Développer une version numérique complète du jeu de plateau Othello (Reversi) jouable directement dans le terminal.
+Réalisation : J'ai programmé la logique du jeu en binôme, en travaillant sur les règles de capture et l'optimisation des algorithmes. Au-delà des consignes initiales du projet, j'ai pris l'initiative d'intégrer plusieurs niveaux de difficulté pour enrichir l'expérience utilisateur. Pour garantir la fiabilité du programme, j'ai réalisé un travail approfondi sur les tests unitaires avec JUnit afin de corriger les bugs et d'assurer une stabilité optimale. J'ai utilisé Java et l'environnement IntelliJ pour l'ensemble du développement.
